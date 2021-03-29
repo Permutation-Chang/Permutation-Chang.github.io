@@ -5,7 +5,7 @@ layout: post
 
 講義放在[這裡][Wiki]
 
-[Wiki]:/Permutationline.pdf
+[Wiki]:/Permutation_line.pdf
 
 
 
