@@ -1,9 +1,9 @@
 ---
-title:  "幾何引理維基"
+title:  "張志煥截線"
 layout: post
 ---
 
-講義放在[這裡]:[Wiki]
+講義放在[這裡][Wiki]
 
 [Wiki]:/Permutation line.pdf
 
