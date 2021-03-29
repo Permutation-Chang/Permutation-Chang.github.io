@@ -3,8 +3,8 @@ title:  "正交截線"
 layout: post
 ---
 
-講義放在[這裡][正交截線.pdf]，不定期更新！
+講義放在[這裡][Orthotransversal.pdf]，不定期更新！
 
-[正交截線.pdf](https://github.com/Permutation-Chang/Permutation-Chang.github.io/files/6219583/_________.1.pdf)
+[Orthotransversal.pdf](https://github.com/Permutation-Chang/Permutation-Chang.github.io/Orthotransversal.pdf)
 
 
