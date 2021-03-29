@@ -1,5 +1,5 @@
 title: "Permutation's Geometry Blog"
-author: "Li4"
+author: "$$\mathcal{S}_{\otimes}$$"
 description: "" #"Made with :)" #<b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
@@ -22,7 +22,7 @@ navigation:
   - {file: "IMOC.md", icon: plus}
 
 external:                  # see http://fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:chjh21005@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:l1e2o3leo@gmail.com"}
   #- {title: PDF, icon: file, url: "/Conic.pdf"}
   #- {title: Wiki, icon: file, url: "/Geometry_Lemma_Wiki.pdf"}
 
