@@ -1,0 +1,35 @@
+title: "平面幾何"
+author: "Li4"
+description: "" #"Made with :)" #<b style=\"color: #f45;\">&lt;3</b>"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_social: true          # show site description and social links in the footer
+show_excerpts: false       # show article excerpts on the home page
+show_frame: false          # adds a gray frame to the site
+show_sidebar: true        # show a sidebar instead of the usual header
+mathjax: true
+
+# Menu
+
+navigation:
+  - {file: "index.html", icon: home}
+  - {file: "README.md", icon: address-card}
+  - {file: "IMO.md", icon: plus}
+  - {file: "study.md", icon: plus}
+
+external:                  # see http://fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:chjh21005@gmail.com"}
+  #- {title: PDF, icon: file, url: "/Conic.pdf"}
+  #- {title: Wiki, icon: file, url: "/Geometry_Lemma_Wiki.pdf"}
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed
