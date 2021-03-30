@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "關於"
 permalink: "/about/"
 layout: page
 ---
