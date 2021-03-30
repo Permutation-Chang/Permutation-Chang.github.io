@@ -25,8 +25,8 @@ layout: page
 還想解鎖更多的心知識嗎？
 
 報名資訊： 
-[IMOC官網]
-[IMOC官網]:http://imocamp.wikidot.com/information2021 
+[這理]
+[這理]:http://imocamp.wikidot.com/information2021 
 
 
 此外，我們也設計了一款名為 $$X(n)$$ 的桌遊，讓大家更熟悉三角形的心。
