@@ -7,7 +7,7 @@ layout: post
 
 [等軸雙曲線][Wiki]
 
-[Wiki]:/Permutationline.pdf
+[Wiki]:/rectangularhyperbola.pdf
 
 
 
