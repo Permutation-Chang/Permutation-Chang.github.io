@@ -4,8 +4,8 @@ layout: post
 ---
 
 某天被別人問的一個有趣的題目，裡面用到了很多好玩的引理。
-[Problemwithlemmas.pdf]
+[一個用到很多引理的好題目]
 
-[Problemwithlemmas.pdf]:/Problemwithlemmas.pdf
+[一個用到很多引理的好題目]:/Problemwithlemmas.pdf
 
 
